@@ -40,10 +40,10 @@ if __name__ == '__main__':
     parser.add_argument('--dfpath', default='/mnt/g/',help='download files path')
     parser.add_argument('--refpath',default='/mnt/e/My Drive/Herb22_NewScripts/',help='list path')
     parser.add_argument('--refname', default='herbarium2022-v2_2-limited.tsv',help='reference file name')
-    parser.add_argument('--outname', default='UpdateDownList-{}.tsv'.format(datetime.datetime.now().strftime("%Y%m%d-%H%M%S")), help='output list name')
+    parser.add_argument('--outname', default='UpdateDownList-{}'.format(datetime.datetime.now().strftime("%Y%m%d-%H%M%S")), help='output list name')
     parser.add_argument('--fnformat', default='scientificName_taxaNumber_collectionCode.jpg', help='format of filename. Options: uniquefileName, lastStringURL.')
 
-    
+    cn_dlh='downloadHost'
     args = parser.parse_args()
     print('Called with args:')
     print(args)
@@ -75,5 +75,6 @@ if __name__ == '__main__':
     df_dld=df_dld.assign(taxaNumber=[int(float(number)) for number in df_dld.taxaNumber])
     print(df_dld)
     df_out=df_h.merge(df_dld,how='left',on=['scientificName','taxaNumber','collectionCode']).query('statusDown!=statusDown')
-    print(df_out,args.outname)
-    df_out.to_csv(args.outname,sep='\t',index=False)
+    outfileName=args.outname+"-"+df_h[cn_dlh].values[0].replace('.','-')+'.tsv'
+    print(df_out,outfileName)
+    df_out.to_csv(outfileName,sep='\t',index=False)
