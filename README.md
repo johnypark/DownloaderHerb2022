@@ -2,7 +2,7 @@
 Scripts for downloading herbarium specimen images from the source. Additionally the repo includes the script to control parallel download and to resize images to custom resolution using openCV.
 
 ### Dataset
-```herbarium2022-v2_2_limited.tsv``` has the most recently updated list for downloading images for this project.
+```herbarium2022-v2_2_limited.tsv``` has the most recently updated list for downloading images for this project. It consists of 8 columns: occurrenceID	collectionCode	downloadHost	scientificName	url	taxaNumber	uniquefileName	herb21PATH.
 
 ```
 occurrenceID	collectionCode	downloadHost	scientificName	url	taxaNumber	uniquefileName	herb21PATH
