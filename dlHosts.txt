@@ -1,0 +1,15 @@
+fm-digital-assets.fieldmuseum.org
+www.pnwherbaria.org
+mediaphoto.mnhn.fr
+api.idigbio.org
+researcharchive.calacademy.org
+data.huh.harvard.edu
+botanydb.colorado.edu
+swbiodiversity.org
+prc-symbiota.tacc.utexas.edu
+cdn.plantatlas.org
+www.tropicos.org
+www.kew.org
+sweetgum.nybg.org
+n2t.net
+arctos.database.museum
