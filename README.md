@@ -1,6 +1,23 @@
 # DownloaderHerb2022
 Scripts for downloading herbarium specimen images from the source. Additionally the repo includes the script to control parallel download and to resize images to custom resolution using openCV.
 
+
+Update 1/5/22:
+
+Download left for each download host:
+
+sweetgum.nybg.org                     35000
+mediaphoto.mnhn.fr                   159136
+cdn.plantatlas.org                    53943
+botanydb.colorado.edu                 43535
+arctos.database.museum                39399
+fm-digital-assets.fieldmuseum.org     36371
+www.tropicos.org                      31409
+swbiodiversity.org                    25999
+prc-symbiota.tacc.utexas.edu          25957
+www.kew.org                           17909
+researcharchive.calacademy.org         3252
+
 This repository contain two seperate codes to download and resize files from both bash shell and Python. They are:
 DownloadScript_nStart_nEnd_RefName_dPATH_PATHLogfn.sh
 Download_and_resize.py
