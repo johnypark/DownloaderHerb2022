@@ -13,6 +13,7 @@ fileName=$3
 DownFolder=$4
 DownLogfileName=$5
 wc -l $3
+CurrPATH=$(pwd)
 
 declare -i setParamResize=4000
 
@@ -39,8 +40,8 @@ do
     then
         echo "Image is larger than the set size: ${setParamResize}. Image dimension: (${imdim[0]},${imdim[1]})"
         echo "Resizing..."
-        echo python resizeImage.py --ImageName "${uniq_file_name}" --outPATH "${DownFolder}"
-        python resizeImage.py --ImageName "${uniq_file_name}" --outPATH "${DownFolder}"
+        echo python "${CurrPATH}"/resizeImage.py --ImageName "${uniq_file_name}" --outPATH "${DownFolder}"
+        python "${CurrPATH}"/resizeImage.py --ImageName "${uniq_file_name}" --outPATH "${DownFolder}"
         #mogrify -resize "${setParamResize}>" "${uniq_file_name}" 
         # IMagemgaick is super slow when doing resize 100x https://stackoverflow.com/questions/11727860/imagemagick-batch-resizing-performance
         #https://legacy.imagemagick.org/discourse-server/viewtopic.php?t=13175

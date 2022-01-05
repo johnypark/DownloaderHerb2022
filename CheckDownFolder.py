@@ -40,7 +40,7 @@ if __name__ == '__main__':
     parser.add_argument('--dfpath', default='/mnt/g/',help='download files path')
     parser.add_argument('--refpath',default='/mnt/e/My Drive/Herb22_NewScripts/',help='list path')
     parser.add_argument('--refname', default='herbarium2022-v2_2-limited.tsv',help='reference file name')
-    parser.add_argument('--outname', default='UpdateDownList-{}.tsv'.format(datetime.datetime.now()), help='output list name')
+    parser.add_argument('--outname', default='UpdateDownList-{}.tsv'.format(datetime.datetime.now().strftime("%Y%m%d-%H%M%S")), help='output list name')
     parser.add_argument('--fnformat', default='scientificName_taxaNumber_collectionCode.jpg', help='format of filename. Options: uniquefileName, lastStringURL.')
 
     
