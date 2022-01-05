@@ -6,6 +6,7 @@ Update 1/5/22:
 
 Download left for each download host:
 
+```
 sweetgum.nybg.org                     35000
 mediaphoto.mnhn.fr                   159136
 cdn.plantatlas.org                    53943
@@ -17,6 +18,7 @@ swbiodiversity.org                    25999
 prc-symbiota.tacc.utexas.edu          25957
 www.kew.org                           17909
 researcharchive.calacademy.org         3252
+```
 
 This repository contain two seperate codes to download and resize files from both bash shell and Python. They are:
 DownloadScript_nStart_nEnd_RefName_dPATH_PATHLogfn.sh
