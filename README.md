@@ -73,17 +73,17 @@ You need to modify download PATH and logfile PATH within the shell script to run
 dlHosts.txt include list of all the download host we plan to get the data from.
 ```
 sweetgum.nybg.org                    356950
-n2t.net                              178853
+n2t.net                              178853**
 mediaphoto.mnhn.fr                   159136
-data.huh.harvard.edu                 138666
-www.pnwherbaria.org                   74834
-api.idigbio.org                       54636
-cdn.plantatlas.org                    53943
-botanydb.colorado.edu                 43535
-arctos.database.museum                39399
-fm-digital-assets.fieldmuseum.org     36371
+data.huh.harvard.edu                 138666**
+www.pnwherbaria.org                   74834**
+api.idigbio.org                       54636**
+cdn.plantatlas.org                    53943**
+botanydb.colorado.edu                 43535**
+arctos.database.museum                39399**
+fm-digital-assets.fieldmuseum.org     36371**
 www.tropicos.org                      31409
-swbiodiversity.org                    25999
+swbiodiversity.org                    25999**
 prc-symbiota.tacc.utexas.edu          25957
 www.kew.org                           17909
 researcharchive.calacademy.org         3252
