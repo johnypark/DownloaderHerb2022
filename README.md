@@ -23,13 +23,12 @@ occurrenceID	collectionCode	downloadHost	scientificName	url	taxaNumber	uniquefil
 Update 1/5/22:
 
 Download hosts completed download: ```n2t.net```, ```data.huh.harvard.edu```
-```www.pnwherbaria.org```, ```api.idigbio.org```, ```cdn.plantatlas.org```,```botanydb.colorado.edu```       
+```www.pnwherbaria.org```, ```api.idigbio.org```, ```cdn.plantatlas.org```,```botanydb.colorado.edu``` , ```arctos.database.museum ```,      
 Download left for each download host:
 
 ```
 sweetgum.nybg.org                     35000
 mediaphoto.mnhn.fr                   159136
-arctos.database.museum                39399
 fm-digital-assets.fieldmuseum.org     36371
 www.tropicos.org                      31409
 swbiodiversity.org                    25999
