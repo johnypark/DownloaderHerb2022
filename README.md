@@ -29,7 +29,6 @@ Download left for each download host:
 ```
 sweetgum.nybg.org                     35000
 mediaphoto.mnhn.fr                   159136
-fm-digital-assets.fieldmuseum.org     36371
 www.tropicos.org                      31409
 swbiodiversity.org                    25999
 prc-symbiota.tacc.utexas.edu          25957
