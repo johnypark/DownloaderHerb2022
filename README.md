@@ -5,18 +5,19 @@ Scripts for downloading herbarium specimen images from the source. Additionally 
 ```herbarium2022-v2_2_limited.tsv``` has the most recently updated list for downloading images for this project. It consists of 8 columns: occurrenceID	collectionCode	downloadHost	scientificName	url	taxaNumber	uniquefileName	herb21PATH.
 
 ```
-occurrenceID	collectionCode	downloadHost	scientificName	url	taxaNumber	uniquefileName	herb21PATH
+	occurrenceID	collectionCode	downloadHost	scientificName	url	taxaNumber	uniquefileName	herb21PATH
 0	cfb9c9be-d01d-4490-9edd-7a0b8411d14c	A	data.huh.harvard.edu	Fraxinus caroliniana Mill.	http://data.huh.harvard.edu/cfb9c9be-d01d-4490...	1	Fraxinus caroliniana Mill.__1__A.jpg	NaN
-1	4dab015f-43ff-463f-b889-83372677c13a	A	data.huh.harvard.edu	Fraxinus caroliniana Mill.	http://data.huh.harvard.edu/4dab015f-43ff-463f...	2	Fraxinus caroliniana Mill.__1__A.jpg	NaN
-2	5e4801ce-307b-4637-8668-06c5e1fc008d	A	data.huh.harvard.edu	Fraxinus caroliniana Mill.	http://data.huh.harvard.edu/5e4801ce-307b-4637...	3	Fraxinus caroliniana Mill.__1__A.jpg	NaN
-3	c37e7862-d314-46d6-aa11-8578474249b3	A	data.huh.harvard.edu	Fraxinus caroliniana Mill.	http://data.huh.harvard.edu/c37e7862-d314-46d6...	4	Fraxinus caroliniana Mill.__1__A.jpg	NaN
-4	26cb0ddc-975a-4504-8e7d-e704553e22c6	A	data.huh.harvard.edu	Fraxinus caroliniana Mill.	http://data.huh.harvard.edu/26cb0ddc-975a-4504...	5	Fraxinus caroliniana Mill.__1__A.jpg	NaN
+1	4dab015f-43ff-463f-b889-83372677c13a	A	data.huh.harvard.edu	Fraxinus caroliniana Mill.	http://data.huh.harvard.edu/4dab015f-43ff-463f...	2	Fraxinus caroliniana Mill.__2__A.jpg	NaN
+2	5e4801ce-307b-4637-8668-06c5e1fc008d	A	data.huh.harvard.edu	Fraxinus caroliniana Mill.	http://data.huh.harvard.edu/5e4801ce-307b-4637...	3	Fraxinus caroliniana Mill.__3__A.jpg	NaN
+3	c37e7862-d314-46d6-aa11-8578474249b3	A	data.huh.harvard.edu	Fraxinus caroliniana Mill.	http://data.huh.harvard.edu/c37e7862-d314-46d6...	4	Fraxinus caroliniana Mill.__4__A.jpg	NaN
+4	26cb0ddc-975a-4504-8e7d-e704553e22c6	A	data.huh.harvard.edu	Fraxinus caroliniana Mill.	http://data.huh.harvard.edu/26cb0ddc-975a-4504...	5	Fraxinus caroliniana Mill.__5__A.jpg	NaN
 ...	...	...	...	...	...	...	...	...
-1240844	urn:catalog:cas:bot-bc:2240	CAS	researcharchive.calacademy.org	Cuscuta suaveolens Ser.	http://researcharchive.calacademy.org/image_db...	100	Fraxinus caroliniana Mill.__1__A.jpg	NaN
-1240845	urn:catalog:cas:bot-bc:33119	CAS	researcharchive.calacademy.org	Cryptantha hooveri I.M.Johnst.	http://researcharchive.calacademy.org/image_db...	10	Fraxinus caroliniana Mill.__1__A.jpg	NaN
-1240846	urn:catalog:cas:bot-bc:26729	CAS	researcharchive.calacademy.org	Downingia bella Hoover	http://researcharchive.calacademy.org/image_db...	35	Fraxinus caroliniana Mill.__1__A.jpg	NaN
-1240847	urn:catalog:cas:bot-bc:33307	CAS	researcharchive.calacademy.org	Downingia bella Hoover	http://researcharchive.calacademy.org/image_db...	36	Fraxinus caroliniana Mill.__1__A.jpg	NaN
-1240848	urn:catalog:cas:bot-bc:123463	CAS	researcharchive.calacademy.org	Hypericum adpressum W.P.C.Barton	http://researcharchive.calacademy.org/image_db...	100	Fraxinus caroliniana Mill.__1__A.jpg	NaN
+1240844	urn:catalog:cas:bot-bc:2240	CAS	researcharchive.calacademy.org	Cuscuta suaveolens Ser.	http://researcharchive.calacademy.org/image_db...	100	Cuscuta suaveolens Ser.__100__CAS.jpg	NaN
+1240845	urn:catalog:cas:bot-bc:33119	CAS	researcharchive.calacademy.org	Cryptantha hooveri I.M.Johnst.	http://researcharchive.calacademy.org/image_db...	10	Cryptantha hooveri I.M.Johnst.__10__CAS.jpg	NaN
+1240846	urn:catalog:cas:bot-bc:26729	CAS	researcharchive.calacademy.org	Downingia bella Hoover	http://researcharchive.calacademy.org/image_db...	35	Downingia bella Hoover__35__CAS.jpg	NaN
+1240847	urn:catalog:cas:bot-bc:33307	CAS	researcharchive.calacademy.org	Downingia bella Hoover	http://researcharchive.calacademy.org/image_db...	36	Downingia bella Hoover__36__CAS.jpg	NaN
+1240848	urn:catalog:cas:bot-bc:123463	CAS	researcharchive.calacademy.org	Hypericum adpressum W.P.C.Barton	http://researcharchive.calacademy.org/image_db...	100	Hypericum adpressum W.P.C.Barton__100__CAS.jpg	NaN
+1240849 rows × 8 columns
 ```
 
 
