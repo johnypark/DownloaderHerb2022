@@ -21,10 +21,10 @@ Scripts for downloading herbarium specimen images from the source. Additionally 
 ```
 
 
-Update 1/5/22:
+Update 1/9/22:
 
 Download hosts completed download: ```n2t.net```, ```data.huh.harvard.edu```
-```www.pnwherbaria.org```, ```api.idigbio.org```, ```cdn.plantatlas.org```,```botanydb.colorado.edu``` , ```arctos.database.museum ```,  ```sweetgum.nybg.org```    
+```www.pnwherbaria.org```, ```api.idigbio.org```, ```cdn.plantatlas.org```,```botanydb.colorado.edu``` , ```arctos.database.museum ```,  ```sweetgum.nybg.org```, ```www.kew.org```.    
 
 dlHosts.txt include list of all the download host we plan to get the data from. Double-asterisks indicate already downloaded datasets.
 ```
@@ -41,7 +41,7 @@ fm-digital-assets.fieldmuseum.org     36371**
 www.tropicos.org                      31409
 swbiodiversity.org                    25999**
 prc-symbiota.tacc.utexas.edu          25957
-www.kew.org                           17909
+www.kew.org                           17909**
 researcharchive.calacademy.org         3252
 ```
 
