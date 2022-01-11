@@ -26,7 +26,7 @@ Update 1/9/22:
 Download hosts completed download: ```n2t.net```, ```data.huh.harvard.edu```
 ```www.pnwherbaria.org```, ```api.idigbio.org```, ```cdn.plantatlas.org```,```botanydb.colorado.edu``` , ```arctos.database.museum ```,  ```sweetgum.nybg.org```, ```www.kew.org```.    
 
-dlHosts.txt include list of all the download host we plan to get the data from. Double-asterisks indicate already downloaded datasets.
+dlHosts.txt include list of all the download host we plan to get the data from. Double-asterisks indicate already downloaded datasets.(r) indicate number of completed resized images. 
 ```
 sweetgum.nybg.org                    356950**(r)
 n2t.net                              178853**
