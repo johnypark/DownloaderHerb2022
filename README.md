@@ -28,16 +28,16 @@ Download hosts completed download: ```n2t.net```, ```data.huh.harvard.edu```
 
 dlHosts.txt include list of all the download host we plan to get the data from. Double-asterisks indicate already downloaded datasets.
 ```
-sweetgum.nybg.org                    356950**
+sweetgum.nybg.org                    356950**(r)
 n2t.net                              178853**
 mediaphoto.mnhn.fr                   159136
 data.huh.harvard.edu                 138666**
-www.pnwherbaria.org                   74834**
-api.idigbio.org                       54636**
-cdn.plantatlas.org                    53943**
-botanydb.colorado.edu                 43535**
-arctos.database.museum                39399**
-fm-digital-assets.fieldmuseum.org     36371**
+www.pnwherbaria.org                   74834**(r:74743)
+api.idigbio.org                       54636**(r:53532)
+cdn.plantatlas.org                    53943**(r:48853)
+botanydb.colorado.edu                 43535**(r:36110)
+arctos.database.museum                39399**(r:16350)
+fm-digital-assets.fieldmuseum.org     36371**(r:36276)
 www.tropicos.org                      31409
 swbiodiversity.org                    25999**
 prc-symbiota.tacc.utexas.edu          25957
