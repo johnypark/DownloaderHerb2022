@@ -21,7 +21,7 @@ Scripts for downloading herbarium specimen images from the source. Additionally 
 ```
 
 
-Update 1/9/22:
+Update 1/12/22:
 
 Download hosts completed download: ```n2t.net```, ```data.huh.harvard.edu```
 ```www.pnwherbaria.org```, ```api.idigbio.org```, ```cdn.plantatlas.org```,```botanydb.colorado.edu``` , ```arctos.database.museum ```,  ```sweetgum.nybg.org```, ```www.kew.org```.    
