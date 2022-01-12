@@ -29,7 +29,7 @@ Download hosts completed download: ```n2t.net```, ```data.huh.harvard.edu```
 dlHosts.txt include list of all the download host we plan to get the data from. Double-asterisks indicate already downloaded datasets.(r) indicate number of completed resized images. 
 ```
 sweetgum.nybg.org                    356950**(r)
-n2t.net                              178853**
+n2t.net                              178853**(r:50614)
 mediaphoto.mnhn.fr                   159136
 data.huh.harvard.edu                 138666**(r:139205)
 www.pnwherbaria.org                   74834**(r:74743)
@@ -40,7 +40,7 @@ arctos.database.museum                39399**(r:16350)
 fm-digital-assets.fieldmuseum.org     36371**(r:36276)
 www.tropicos.org                      31409
 swbiodiversity.org                    25999**(r:21146)
-prc-symbiota.tacc.utexas.edu          25957
+prc-symbiota.tacc.utexas.edu          25957  (r:19506)
 www.kew.org                           17909**(r:17901)
 researcharchive.calacademy.org         3252
 ```
