@@ -31,17 +31,17 @@ dlHosts.txt include list of all the download host we plan to get the data from. 
 sweetgum.nybg.org                    356950**(r)
 n2t.net                              178853**(r:75369)
 mediaphoto.mnhn.fr                   159136
-data.huh.harvard.edu                 138666**(r:139205)
-www.pnwherbaria.org                   74834**(r:74743)
-api.idigbio.org                       54636**(r:53532)
-cdn.plantatlas.org                    53943**(r:53844)
-botanydb.colorado.edu                 43535**(r:43532)
-arctos.database.museum                39399**(r:16350)
-fm-digital-assets.fieldmuseum.org     36371**(r:36276)
+data.huh.harvard.edu                 138666**(r:139205) 
+www.pnwherbaria.org                   74834**(r:74743) (up - progress)
+api.idigbio.org                       54636**(r:53532) (up - progress)
+cdn.plantatlas.org                    53943**(r:53844) (up - progress)
+botanydb.colorado.edu                 43535**(r:43532) (up - progress)
+arctos.database.museum                39399**(r:16350) 
+fm-digital-assets.fieldmuseum.org     36371**(r:36276) (up - progress)
 www.tropicos.org                      31409
-swbiodiversity.org                    25999**(r:21146)
-prc-symbiota.tacc.utexas.edu          25957  (r:25957)
-www.kew.org                           17909**(r:17901)
+swbiodiversity.org                    25999**(r:21146) 
+prc-symbiota.tacc.utexas.edu          25957  (r:25957) (up - progress)
+www.kew.org                           17909**(r:17901) (up - progress)
 researcharchive.calacademy.org         3252
 ```
 
