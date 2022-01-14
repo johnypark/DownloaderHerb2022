@@ -31,7 +31,7 @@ dlHosts.txt include list of all the download host we plan to get the data from. 
 sweetgum.nybg.org                    356950**(r)
 n2t.net                              178853**(r:108591)
 mediaphoto.mnhn.fr                   159136
-data.huh.harvard.edu                 138666**(r:139205) 
+data.huh.harvard.edu                 138666**(r:136745)
 www.pnwherbaria.org                   74834**(r:74743) (up: 74743)
 api.idigbio.org                       54636**(r:53532) (up: 53532)
 cdn.plantatlas.org                    53943**(r:53844) (up: 53844)
