@@ -28,7 +28,7 @@ Download hosts completed download: ```n2t.net```, ```data.huh.harvard.edu```
 
 dlHosts.txt include list of all the download host we plan to get the data from. Double-asterisks indicate already downloaded datasets.(r) indicate number of completed resized images. 
 ```
-sweetgum.nybg.org                    356950**(r)
+sweetgum.nybg.org                    356950**(r) (up:29481)
 n2t.net                              178853**(r:150945) (up: 151016)
 mediaphoto.mnhn.fr                   159136
 data.huh.harvard.edu                 138666**(r:136745) (up: 136602)
