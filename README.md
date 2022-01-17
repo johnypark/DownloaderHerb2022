@@ -39,7 +39,7 @@ botanydb.colorado.edu                 43535**(r:43532) (up: 43532)
 arctos.database.museum                39399**(r:16350) 
 fm-digital-assets.fieldmuseum.org     36371**(r:36276) (up: 36276)
 www.tropicos.org                      31409
-swbiodiversity.org                    25999**(r:21146) (up: 27830)
+swbiodiversity.org                    25999**(r:21146) (up: 21169)
 prc-symbiota.tacc.utexas.edu          25957  (r:25957) (up: 25957)
 www.kew.org                           17909**(r:17901) (up: 17901)
 researcharchive.calacademy.org         3252
