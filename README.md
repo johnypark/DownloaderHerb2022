@@ -28,20 +28,20 @@ Download hosts completed download: ```n2t.net```, ```data.huh.harvard.edu```
 
 dlHosts.txt include list of all the download host we plan to get the data from. Double-asterisks indicate already downloaded datasets.(r) indicate number of completed resized images. 
 ```
-sweetgum.nybg.org                    356950**(r) (up:29481)
-n2t.net                              178853**(r:150945) (up: 178849)
-mediaphoto.mnhn.fr                   159136
-data.huh.harvard.edu                 138666**(r:136745) (up: 136602)
-www.pnwherbaria.org                   74834**(r:74743) (up: 74743)
-api.idigbio.org                       54636**(r:53532) (up: 53532)
-cdn.plantatlas.org                    53943**(r:53844) (up: 53844)
-botanydb.colorado.edu                 43535**(r:43532) (up: 43532)
-arctos.database.museum                39399**(r:16350) 
-fm-digital-assets.fieldmuseum.org     36371**(r:36276) (up: 36276)
+sweetgum.nybg.org                    356950**(r) (up:29481) (blur: 29566)
+n2t.net                              178853**(r:150945) (up: 178849) (blur: 173430)
+mediaphoto.mnhn.fr                   159136  (replacements: 59709); (blur: 75038)
+data.huh.harvard.edu                 138666**(r:136745) (up: 136602) (blur: 136601)
+www.pnwherbaria.org                   74834**(r:74743) (up: 74743) (blur: 74743)
+api.idigbio.org                       54636**(r:53532) (up: 53532) (blur: 53532)
+cdn.plantatlas.org                    53943**(r:53844) (up: 53844) (blur: 53844)
+botanydb.colorado.edu                 43535**(r:43532) (up: 43532) (blur: 43532)
+arctos.database.museum                39399**(r:16350) 			(blur: 2188?)
+fm-digital-assets.fieldmuseum.org     36371**(r:36276) (up: 36276) (blur: 36276)
 www.tropicos.org                      31409
-swbiodiversity.org                    25999**(r:21146) (up: 21169)
-prc-symbiota.tacc.utexas.edu          25957  (r:25957) (up: 25957)
-www.kew.org                           17909**(r:17901) (up: 17901)
+swbiodiversity.org                    25999**(r:21146) (up: 21169) (blur: 21168)
+prc-symbiota.tacc.utexas.edu          25957  (r:25957) (up: 25957) (blur: 25957)
+www.kew.org                           17909**(r:17901) (up: 17901) (blur: 17901)
 researcharchive.calacademy.org         3252
 ```
 
